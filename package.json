@@ -1,0 +1,21 @@
+{
+  "name": "atheneum-cypress-javascript-assessment",
+  "version": "1.0.0",
+  "description": "https://aabi13119@bitbucket.org/aabi13119/atheneum-cypress-javascript-assessment.git",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aabi13119@bitbucket.org/aabi13119/atheneum-cypress-javascript-assessment.git"
+  },
+  "author": "Abdullah",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/aabi13119/atheneum-cypress-javascript-assessment#readme",
+  "dependencies": {
+    "cypress": "^10.3.0",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mailosaur": "^2.8.0"
+  }
+}
